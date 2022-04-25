@@ -29,4 +29,6 @@ The /book-of-mormon/ folder contains TSV files of each book in the Book of Mormo
 ## Symbols
 
 The null symbol (∅) is used to represent that the text doesn't exist in a specific edition.
+
 The space symbol (⌴) is used to represent that there is a space there. This is to help in some CSV/TSV readers that ignore an actual space character.
+
