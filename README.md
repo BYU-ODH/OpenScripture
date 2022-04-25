@@ -16,4 +16,17 @@ Shortly thereafter, the 1981 and 2013 editions will be added to the dataset as w
 
 # Repository Files
 
-TSV files will be provided and updated soon!
+The /book-of-mormon/ folder contains TSV files of each book in the Book of Mormon. Each line contains information about a word, punctuation mark, or space within a scriptural verse. A space is represented with a ⌴ symbol. 
+
+## Columns
+
+1. The first column provides the *modern* scriptural citation of the verse. Any paragraphing used in 1830, 1837, 1840, and 1841 editions are omitted.
+
+2. The second provides a word ID for each row. An integer represented a "head" word, whereas any decimal number is considered a "subword" to the head word.
+
+3. The third column and consecutive columns contain the data on individual editions, starting with the 1830 edition on.
+
+## Symbols
+
+The null symbol (∅) is used to represent that the text doesn't exist in a specific edition.
+The space symbol (⌴) is used to represent that there is a space there. This is to help in some CSV/TSV readers that ignore an actual space character.
