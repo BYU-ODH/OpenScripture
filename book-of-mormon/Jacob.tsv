@@ -16943,7 +16943,7 @@ Jacob 6:13	25.01	⌴	⌴
 Jacob 6:13	26	fear	fear
 Jacob 6:13	26.01	.	.
 Jacob 6:13	26.02	—	∅
-Jacob 6:13	26.03	⌴	⌴
+Jacob 6:13	26.03	∅	⌴
 Jacob 6:13	27	Amen	Amen
 Jacob 6:13	27.01	.	.
 Jacob 7:1	1	And	And
@@ -17175,7 +17175,7 @@ Jacob 7:3	35.01	,	,
 Jacob 7:3	35.02	⌴	⌴
 Jacob 7:3	36	wherefore	∅
 Jacob 7:3	36.01	,	∅
-Jacob 7:3	36.02	⌴	⌴
+Jacob 7:3	36.02	⌴	∅
 Jacob 7:3	37	he	he
 Jacob 7:3	37.01	⌴	⌴
 Jacob 7:3	38	sought	sought
@@ -18786,7 +18786,7 @@ Jacob 7:20	15.01	⌴	⌴
 Jacob 7:20	16	no	no
 Jacob 7:20	16.01	⌴	⌴
 Jacob 7:20	17	more	more
-Jacob 7:20	17.01	;	;
+Jacob 7:20	17.01	;	:
 Jacob 7:20	17.02	⌴	⌴
 Jacob 7:20	18	and	and
 Jacob 7:20	18.01	⌴	⌴
@@ -19390,6 +19390,7 @@ Jacob 7:26	74	people	people
 Jacob 7:26	74.01	,	,
 Jacob 7:26	74.02	⌴	⌴
 Jacob 7:26	75	wanderers	wanderers
+Jacob 7:26	75.01	∅	,
 Jacob 7:26	75.01	⌴	⌴
 Jacob 7:26	76	cast	cast
 Jacob 7:26	76.01	⌴	⌴
