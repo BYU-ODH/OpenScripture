@@ -8530,8 +8530,8 @@ Moroni 9:2	11.01	,	,
 Moroni 9:2	11.02	⌴	⌴
 Moroni 9:2	12	in	in
 Moroni 9:2	12.01	⌴	⌴
-Moroni 9:2	13	the	the
-Moroni 9:2	13.01	⌴	⌴
+Moroni 9:2	13	the	∅
+Moroni 9:2	13.01	⌴	∅
 Moroni 9:2	14	which	which
 Moroni 9:2	14.01	⌴	⌴
 Moroni 9:2	15	we	we
@@ -9250,8 +9250,8 @@ Moroni 9:10	1	and	and
 Moroni 9:10	1.01	⌴	⌴
 Moroni 9:10	2	after	after
 Moroni 9:10	2.01	⌴	⌴
-Moroni 9:10	3	that	that
-Moroni 9:10	3.01	⌴	⌴
+Moroni 9:10	3	that	∅
+Moroni 9:10	3.01	⌴	∅
 Moroni 9:10	4	they	they
 Moroni 9:10	4.01	⌴	⌴
 Moroni 9:10	5	had	had
@@ -10058,7 +10058,7 @@ Moroni 9:21	7.01	⌴	⌴
 Moroni 9:21	8	unto	unto
 Moroni 9:21	8.01	⌴	⌴
 Moroni 9:21	9	God	God
-Moroni 9:21	9.01	,	,
+Moroni 9:21	9.01	,	∅
 Moroni 9:21	9.02	⌴	⌴
 Moroni 9:21	10	lest	lest
 Moroni 9:21	10.01	⌴	⌴
@@ -10161,7 +10161,7 @@ Moroni 9:22	41.01	⌴	⌴
 Moroni 9:22	42	utter	utter
 Moroni 9:22	42.01	⌴	⌴
 Moroni 9:22	43	destruction	destruction
-Moroni 9:22	43.01	:	:
+Moroni 9:22	43.01	:	;
 Moroni 9:22	43.02	⌴	⌴
 Moroni 9:22	44	for	for
 Moroni 9:22	44.01	⌴	⌴
