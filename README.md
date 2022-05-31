@@ -10,9 +10,11 @@ Beyond just creating digital edtions of print editions, they are also being alig
 
 # Timeline
 
-The 5 digital editions aforementioned will be finished by the end of summer 2022. 1837 has finished its first. We project that we will finish 1840 by May 14, with 3 editions to follow after that.
+The 5 digital editions aforementioned will be finished by the end of summer 2022. 1837 has finished its first. We project that we will have the first draft finished for 1879 by June 15, with 1920 done by July 4.
 
 Shortly thereafter, the 1981 and 2013 editions will be added to the dataset as well. These editions do not need to be done manually, but they do need to be lined up with the rest of the data.
+
+We recognize that there will be mistakes made while digitizing the editions, so we will have a second person review each chapter again.
 
 # Repository Files
 
