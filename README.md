@@ -1,6 +1,6 @@
 # Description
 
-OpenScripture is a open-source dataset for editions of the Book of Mormon. OpenScripture.org will provide a way to study changes in the Book of Mormon over time by providing easy-to-understand timelines for each word and phrase.
+OpenScripture is a open-source dataset for editions of the Book of Mormon and Doctrine and Covenants. OpenScripture.org provides a way to study changes in the Book of Mormon over time by providing easy-to-understand timelines for each word and phrase.
 
 # Goals
 
@@ -10,11 +10,13 @@ Beyond just creating digital edtions of print editions, they are also being alig
 
 # Timeline
 
-The 5 digital editions aforementioned will be finished by the end of summer 2022. 1837 has finished its first. We project that we will have the first draft finished for 1879 by June 15, with 1920 done by July 4.
+10-Aug-2022: Each edition has been successfully digitized, and we are 60% done with an initial review of each chapter. 1981 and 2013 have also been added to the dataset programatically.
 
-Shortly thereafter, the 1981 and 2013 editions will be added to the dataset as well. These editions do not need to be done manually, but they do need to be lined up with the rest of the data.
+31-Aug-2022: We plan to be 100% with the review.
 
-We recognize that there will be mistakes made while digitizing the editions, so we will have a second person review each chapter again.
+1-Sep-2022: We will start compiling a similar project for the Book of Commandments/Doctrine and Covenants.
+
+1-Sep-2022 through 31-Dec-2022: Even after the review of the Book of Mormon, we recognize that some chapters contain errors. A second review process will be performed Autumn 2022 to minimize these errors.
 
 # Repository Files
 
